@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C# Projects\\CSharp-Task Manager\\Task Manager\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98318618-0064-4526-BC08-A30CA2BCF55B}|Task Manager\\Task Manager.csproj|c:\\users\\julia.menshikov\\desktop\\tortoise c# projects\\csharp-task manager\\task manager\\task manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98318618-0064-4526-BC08-A30CA2BCF55B}|Task Manager\\Task Manager.csproj|solutionrelative:task manager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C# Projects\\CSharp-Task Manager\\Task Manager\\Task Manager\\Program.cs",
+              "RelativeDocumentMoniker": "Task Manager\\Program.cs",
+              "ToolTip": "C:\\Users\\julia.menshikov\\Desktop\\Tortoise C# Projects\\CSharp-Task Manager\\Task Manager\\Task Manager\\Program.cs",
+              "RelativeToolTip": "Task Manager\\Program.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwE4AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-02T07:24:30.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
